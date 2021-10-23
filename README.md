@@ -1,1 +1,1 @@
-## Learning Ruby from codewars.com
+## Learning Ruby by completing challenges from codewars.com
